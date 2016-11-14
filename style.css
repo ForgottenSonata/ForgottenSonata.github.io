@@ -1,0 +1,30 @@
+body {
+background-color: #008080;
+margin: 0 auto;
+color: brown
+
+}
+
+main{
+font-family: cursive;
+font-size: 20 px;
+background-color: #003399;
+  }
+
+
+ h1 {
+    font-family: sans-serif;;
+    font-size: 30 px;
+    color: black;
+    width: 500px;
+    height: 500px;
+}
+
+
+ ol {
+
+    color: #009999;
+    width: 300px;
+    height: 300px;
+
+  }
